@@ -63,8 +63,11 @@ favstats(pushups~position,data=mydata)
 t.test(pushups~position,data=mydata)
 ```
 
+   We see the probability of getting the results we found assuming the null hypothesis is true, 0.00000942. This is so small that we can not justify the null hypothesis; we reject $H_0$ 
+   
+   
 # Discussion and Conclusion
 
-<!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+<!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variables causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-  We see the probability of getting the results we found assuming the null hypothesis is true, 0.00000942. This is so small that 
+ In conclusion, we sought to determine if there was a difference in the amount of push ups that are done between line and skilled players in 2 minutes.
