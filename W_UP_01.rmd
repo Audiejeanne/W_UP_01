@@ -53,6 +53,8 @@ boxplot(pushups~position,data=mydata)
 ```{r}
 favstats(pushups~position,data=mydata)
 ```
+  On average the line players did 17 push ups in 2 minutes, and the skilled players almost 50 in 2 minutes
+  
   
 ## Inferential Results
 
