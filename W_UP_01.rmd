@@ -52,7 +52,6 @@ boxplot(pushups~position,data=mydata)
 ```{r}
 favstats(pushups~position,data=mydata)
 ```
-  Hey mom here's the results 0.00000942
   
 ## Inferential Results
 
