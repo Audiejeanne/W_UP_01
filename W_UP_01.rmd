@@ -71,3 +71,5 @@ t.test(pushups~position,data=mydata)
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variables causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
  In conclusion, we sought to determine if there was a difference in the amount of push ups that are done between line and skilled players in 2 minutes.
+ 
+   The p value indicates that we reject the null hypothesis, and conclude that Georgetown football line players do, on average,fewer push ups in 2 minutes than skilled players
